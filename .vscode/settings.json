@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/Home/DuckietownSim/my-ros-project/packages/my-package",
+    "ros.distro": "jammy"
+}

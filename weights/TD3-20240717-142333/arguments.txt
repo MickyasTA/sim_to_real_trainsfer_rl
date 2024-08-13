@@ -1,0 +1,1 @@
+{'seed': 441312, 'start_timesteps': 10000.0, 'eval_freq': 5000.0, 'max_timesteps': 500000.0, 'env_timesteps': 500, 'expl_noise': 0.3, 'map': 'loop_empty', 'randomize_maps': False, 'lines': True, 'actionstop': False, 'variantaction': False, 'lastaction': False, 'model_dir': None, 'encoder_weights': 'weights/encoder_weights1.pth'}
